@@ -1,2 +1,3 @@
-# Pagina-ColombiaDesigual
-Pagina creada para el parcial del curso Etica Profesional
+# Proyecto Colombia Desigual
+
+Archivos iniciales del proyecto para Colombia Desigual "Layouts Responsivos: Trabajando con layouts mobile", de David Riveros.
